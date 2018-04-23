@@ -6,4 +6,4 @@
 
 # push from anywhere
 * push test from desktop linux.
-
+* push test from note pc.
